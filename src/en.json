@@ -27,7 +27,7 @@
       "or" : "or",
       "go-back" : "go back",
       "outdated-server" : "Outdated Server!",
-      "outdated-server-message" : "A major change made to the Rainway Client that has caused the version of the server runningon this host to be incompatible. Please update your Rainway Server before attempting to connect to this computer.",
+      "outdated-server-message" : "A major change made to the Rainway Client that has caused the version of the server running on this host to be incompatible. Please update your Rainway Server before attempting to connect to this computer.",
       "server-running-here" : "Server Up and Running on this Computer!",
       "server-running-here-message" : "You are attempting to use the Rainway Client on the computer hosting this server.You can launch games locally on this computer by using the Rainway Dashboard.To stream games on the Rainway Client, please connect from a device other thanthe one hosting the server.",
       "all-games" : "All Games",
